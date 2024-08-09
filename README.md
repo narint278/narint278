@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to My GitHub!
 
-<!--
-**narint278/narint278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello! My name is Narintara, an aspiring web developer passionate about creating impressive user experiences. I love working on challenging projects and am committed to enhancing my coding skills daily!
 
-Here are some ideas to get you started:
+## Projects I've Worked On
+- **[My First Website](URL_of_project)**: My initial project, a personal website that introduces who I am.
+- **[To-Do List App](URL_of_project)**: An application that helps manage daily tasks efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Contact Me
+If you wish to contact me, please visit my [LinkedIn](https://www.linkedin.com/in/narint278/) or send an email at [narint278@gmail.com](mailto:narint278@gmail.com)
+
+Looking forward to collaborating with fellow developers soon!
