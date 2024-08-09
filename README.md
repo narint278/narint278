@@ -13,6 +13,12 @@ Hello! My name is Narintara, an aspiring web developer passionate about creating
 - JavaScript
 - React
 
+## My GitHub Stats
+![Narintara's GitHub stats](https://github-readme-stats.vercel.app/api?username=narint278&show_icons=true&theme=dracula)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narint278&layout=compact&theme=dracula)
+
 ## Contact Me
 If you wish to contact me, please visit my [LinkedIn](https://www.linkedin.com/in/narint278/) or send an email at [narint278@gmail.com](mailto:narint278@gmail.com)
 
