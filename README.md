@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-## 👤 About Me
+## 👩‍💻 About Me
 Hello! I'm Narintara, an aspiring web developer passionate about crafting seamless user experiences. I enjoy the challenge of building responsive and dynamic websites and am eager to grow my skills in front-end development.
 
 ## 🚀 Projects I've Worked On
