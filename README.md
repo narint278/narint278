@@ -1,23 +1,25 @@
-# Welcome to My GitHub!
+# Welcome to My GitHub Profile! 👋
 
-## About Me
-Hello! My name is Narintara, an aspiring web developer passionate about creating impressive user experiences. I love working on challenging projects and am committed to enhancing my coding skills daily!
+## 👤 About Me
+Hello! I'm Narintara, an aspiring web developer passionate about crafting seamless user experiences. I enjoy the challenge of building responsive and dynamic websites and am eager to grow my skills in front-end development.
 
-## Projects I've Worked On
-- **[My First Website](URL_of_project)**: My initial project, a personal website that introduces who I am.
-- **[To-Do List App](URL_of_project)**: An application that helps manage daily tasks efficiently.
+## 🚀 Projects I've Worked On
+- **[My First Website](URL_of_project)**: A personal website to introduce my skills and background.
+- **[To-Do List App](URL_of_project)**: A handy tool to manage daily tasks efficiently, built with JavaScript and React.
 
-## Skills
-- HTML
-- CSS
-- JavaScript
-- React
+## 🛠 Skills
+- **Languages**: HTML, CSS, JavaScript, React
+- **Tools**: Git, GitHub, Visual Studio Code
+- **Design**: Responsive Design, User Interface Design
 
-## My GitHub Stats
-![Narintara's GitHub stats](https://github-readme-stats.vercel.app/api?username=narint278&show_icons=true&theme=dracula)
+## 📊 GitHub Stats
+![Narintara's GitHub stats](https://github-readme-stats.vercel.app/api?username=narint278&show_icons=true&theme=synthwave)
 
+## 📚 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narint278&layout=compact&theme=synthwave)
 
-## Contact Me
-If you wish to contact me, please visit my [LinkedIn](https://www.linkedin.com/in/narint278/) or send an email at [narint278@gmail.com](mailto:narint278@gmail.com)
+## 📫 How to Reach Me
+- **LinkedIn**: [Visit my LinkedIn](https://www.linkedin.com/in/narint278/)
+- **Email**: [Send me an email](mailto:narint278@gmail.com)
 
-Looking forward to collaborating with fellow developers soon!
+### Looking forward to collaborating with you on exciting projects!
