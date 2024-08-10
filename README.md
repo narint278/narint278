@@ -15,9 +15,6 @@ Hello! I'm Narintara, an aspiring web developer passionate about crafting seamle
 ## 📊 GitHub Stats
 ![Narintara's GitHub stats](https://github-readme-stats.vercel.app/api?username=narint278&show_icons=true&theme=synthwave)
 
-## 📚 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narint278&layout=compact&theme=synthwave)
-
 ## 📫 How to Reach Me
 - **LinkedIn**: [Visit my LinkedIn](https://www.linkedin.com/in/narint278/)
 - **Email**: [Send me an email](mailto:narint278@gmail.com)
